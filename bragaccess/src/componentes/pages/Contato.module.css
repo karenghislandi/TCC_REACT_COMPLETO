@@ -1,0 +1,11 @@
+.contato_container{
+    width: 600px; 
+    margin: 0 auto;
+    padding: 3em;
+}
+.contato_container h1{
+    margin-bottom: 1.5em;
+}
+.contato_container h3{
+    color:black;
+}

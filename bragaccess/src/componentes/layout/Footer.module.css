@@ -1,0 +1,51 @@
+.footer{
+    background-color: rgb(5, 31, 117);
+    color: white;
+    padding: 3em;
+    text-align: center;
+}
+.social_list{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+.social_list li{
+    margin: 0 1em;
+}
+.social_list li:hover{
+    color: rgb(19, 225, 225);
+}
+.social_list li svg{
+    cursor: pointer;
+    font-size: 1.5em;
+}
+.copy_right{
+    margin-top: 2em;
+}
+.copy_right span{
+    font-weight:  bold;
+    color:blue;
+
+     
+}
+.item{
+    margin-right: 1em;
+    cursor: pointer;
+   
+   
+}
+.item a{
+    color: white;
+    text-decoration: none;
+    
+}
+.item a:hover{
+    color: aqua; 
+    
+}
+.item a svg{
+    cursor: pointer;
+    font-size: 1.5em;
+}
+
+

@@ -1,0 +1,12 @@
+.cadastrar_container{
+    width:600px; 
+    margin: 0 auto;
+    padding: 3em;
+}
+.cadastrar_container h1{
+    margin-bottom: 0.5em;
+
+}
+.cadastrar_container p{
+    color:black;
+}

@@ -1,0 +1,16 @@
+.avaliar_container{
+    width: 600px; 
+    margin: 0 auto;
+    padding: 3em;
+    
+}
+.avaliar_container h1{
+    margin-bottom: 0.5em;
+}
+.avaliar_container p{
+    color:black;
+}
+.button{
+    justify-content: space-between;
+
+}

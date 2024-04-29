@@ -1,0 +1,18 @@
+.comentario_container{
+    padding: 2em;
+}
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:3rem;   
+    margin: 0 auto;
+    flex-wrap: wrap;  
+}
+.pagination_container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:3rem;
+    flex-wrap: wrap; 
+    margin: 1 auto;
+    
+}
